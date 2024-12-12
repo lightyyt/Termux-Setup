@@ -4,7 +4,7 @@ A simple script to setup Termux the easy way!
 
 ## Setup
 
-To Download, type: `wget https://github.com/lightyyt/Termux-Setup/releases/download/latest/termux-setup && chmod 777 termux-setup`
+To Download, type: `pkg install wget -y && wget https://github.com/lightyyt/Termux-Setup/releases/download/v1.0/termux-setup && chmod 777 termux-setup`
 
 To execute, type:
 `./termux-setup`
