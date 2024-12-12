@@ -2,8 +2,10 @@
 A simple script to setup Termux the easy way!
 
 ## Setup
-Coming Soon
+To Download, type: `wget https://github.com/lightyyt/Termux-Setup/releases/download/latest/termux-setup && chmod 777 termux-setup`
 
+To execute, type:
+`./termux-setup`
 
 ## Note
 If you are styling your Terminal and Termux-Style exits, just exit Termux-Setup and run `termux-style` in your shell
